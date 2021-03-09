@@ -1,7 +1,12 @@
+import Link from 'next/link';
+
 function Mecânica() {
     return <div>
         <h1>Mecânica</h1> 
-        <a href="/">Página Inicial</a>
+        
+        <Link href="/">
+            <a>Página Inicial</a>
+        </Link>
     </div>
 }
 
