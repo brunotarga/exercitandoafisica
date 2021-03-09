@@ -1,5 +1,5 @@
 import Link from 'next/link';
-
+var Latex = require('react-latex');
 function Home() {
     return <div>
         <h2>Página Inicial <Latex>$\frac{1}{2}$</Latex></h2> 
