@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 function Home() {
     return <div>
-        <h2>Página Inicial $\frac{1}{2}$</h2> 
+        <h2>Página Inicial <Latex>$\frac{1}{2}$</Latex></h2> 
 
         <Link href="/Mecânica">
             <a>Mecânica</a>
