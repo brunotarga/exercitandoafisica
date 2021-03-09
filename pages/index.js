@@ -1,5 +1,8 @@
 function Home() {
-    return <div>Home Manolo</div>
+    return <div>
+        <h1>Home</h1> 
+        <a href="/Mecânica">Mecânica</a>
+    </div>
 }
 
 export default Home
