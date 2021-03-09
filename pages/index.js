@@ -1,4 +1,12 @@
 import Link from 'next/link';
+<html>
+    <head>
+        <link
+            href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css"
+            rel="stylesheet"
+        />
+    </head>
+</html>
 var Latex = require('react-latex');
 function Home() {
     return <div>
