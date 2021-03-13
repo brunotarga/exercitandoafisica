@@ -1,4 +1,4 @@
-import Link from 'preview/Link';
+import Link from 'next/Link';
 
 function Eletromagnetismo() {
     return <div>

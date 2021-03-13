@@ -7,7 +7,7 @@ function Home() {
         <Link href="/Mecânica">
             <a>Mecânica</a>
         </Link>
-        <Link href="\Termodinâmica">
+        <Link href="/Termodinâmica">
             <a>Termodinâmica</a>
         </Link>
         <Link href="/Eletromagnetismo">
