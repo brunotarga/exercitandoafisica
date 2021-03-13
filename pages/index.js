@@ -6,16 +6,20 @@ function Home() {
 
         <Link href="/Mecânica">
             <a>Mecânica</a>
-        </Link><br>
+        </Link>
+
         <Link href="/Termodinâmica">
             <a>Termodinâmica</a>
         </Link>
+
         <Link href="/Eletromagnetismo">
             <a>Eletromagnetismo</a>
         </Link>
+
         <Link href="/Moderna">
             <a>Moderna</a>
         </Link>
+        
     </div>
 }
 
