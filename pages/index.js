@@ -2,11 +2,11 @@ import Link from 'next/link';
 function Home() {
     return <div>
         
-        
+        <h1>Página Inicial</h1>
 
         <Link href="/Mecânica">
             <a>Mecânica</a>
-        </Link>
+        </Link><br>
         <Link href="/Termodinâmica">
             <a>Termodinâmica</a>
         </Link>
