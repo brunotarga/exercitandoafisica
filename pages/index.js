@@ -8,13 +8,13 @@ function Home() {
             <a>Mecânica</a>
         </Link>
         <Link href="\Termodinâmica">
-            <a>Mecânica</a>
+            <a>Termodinâmica</a>
         </Link>
         <Link href="/Eletromagnetismo">
-            <a>Mecânica</a>
+            <a>Eletromagnetismo</a>
         </Link>
         <Link href="/Moderna">
-            <a>Mecânica</a>
+            <a>Moderna</a>
         </Link>
     </div>
 }
